@@ -8,8 +8,8 @@ public:
 	circle(double value) {
 		radius = value;
 	}
-	long double area() {
-		long double area = 3.14159 * radius * radius;
+	long double circumference() {
+		long double area = 3.14159 * radius * 2;
 		return area;
 	}
 };
