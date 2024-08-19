@@ -1,6 +1,7 @@
-Alright this program is just the begining of my basic artificial intelligence c++
+Alright this program is just the beginning of my basic artificial intelligence c++
 program initially called Ai but if you run it you can change his name during
-operation but he will be called Ai when you start the program unless you change it.
+operation but he will be called Ai when you start the program unless you make a way
+to save his changed name.
 
 It was just a fun project.
 
